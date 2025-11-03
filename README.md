@@ -1,17 +1,20 @@
-Web Tienda Productos
-Aplicación desarrollada con React Native + Expo
+# 🛍️ Web Tienda de Productos
+Aplicación desarrollada con **React Native + Expo** 
 
-Características
-Lista de productos en formato de tarjetas
-Crear nuevos productos con formulario validado
-Editar productos existentes
-Eliminar productos
-Mensajes emergentes para acciones exitosas
-Tecnologías utilizadas
-React Native
-Expo
-React Navigation
-Estructura del proyecto
+## ✨ Características
+- 🧾 Lista de productos en formato de tarjetas  
+- ➕ Crear nuevos productos con formulario validado  
+- ✏️ Editar productos existentes  
+- 🗑️ Eliminar productos  
+- ✅ Mensajes emergentes para acciones exitosas  
+
+## 🧰 Tecnologías utilizadas
+- **React Native**  
+- **Expo**  
+- **React Navigation**
+
+## 🗂️ Estructura del proyecto
+```text
 ├── components/
 │   ├── ListaProductos.tsx
 │   ├── FormularioProducto.tsx
@@ -25,3 +28,6 @@ Estructura del proyecto
 │   └── api.ts
 ├── App.tsx
 └── README.md
+
+
+
